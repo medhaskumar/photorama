@@ -4,7 +4,7 @@ title:      “Culture of Migration”
 subtitle:   “The Indian Ideal“
 active: journal
 image:
-  feature: “Flight.jpeg"
+feature: “Flight.jpeg"
 date:       2016-08-30
 header-img: "img/postcover/Flight.jpeg"
 tags: [tag01, tag02]
