@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: "Multiple Galleries"
-subtitle: "A post with multiple galleries arranged with ISOTOPE"
+title: "Multiple Bye Bye Galleries"
+subtitle: "Bye Bye"
 active: "journal"
 image:
-  feature: "pc007.jpg"
+  feature: "pc008.jpg"
 date: "2016-02-01"
 header-img: "img/postcover/pc007.jpg"
 comments: "true"
