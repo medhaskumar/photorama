@@ -6,7 +6,7 @@ active: journal
 image:
   feature: “Flight.jpg"
 date:       2016-08-30
-header-img: "img/postcover/Flight.jpg"
+header-img: "img/postcover/Flight.jpeg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
 comments: false
