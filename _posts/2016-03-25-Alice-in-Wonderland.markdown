@@ -4,7 +4,7 @@ title:      “Culture of Migration”
 subtitle:   “The Indian Ideal“
 active: journal
 image:
-  feature: “Flight.jpg"
+  feature: “Flight.jpeg"
 date:       2016-08-30
 header-img: "img/postcover/Flight.jpeg"
 tags: [tag01, tag02]
@@ -12,7 +12,7 @@ categories: [cat01, cat02]
 comments: false
 ---
 
-Anything that describes the entirety of India in one single way is perhaps slightly flawed and anyone who lives or has been there can agree. They can also agree that India is perhaps one or the most migration friendly country. As an Indian (and a only recent migrant myself), I speak from experience when i say that everyday conversations and almost all purposeful actions revolve around migration - be it from rural towns to cities, from cities to metropolises or to the west. The ‘ultimate’ and the ‘ideal’ for any Indian is that. Somehow, such mobility has come to represent progress, either upward social mobility , or wealth or just a rite of passage. 
+Hi, Anything that describes the entirety of India in one single way is perhaps slightly flawed and anyone who lives or has been there can agree. They can also agree that India is perhaps one or the most migration friendly country. As an Indian (and a only recent migrant myself), I speak from experience when i say that everyday conversations and almost all purposeful actions revolve around migration - be it from rural towns to cities, from cities to metropolises or to the west. The ‘ultimate’ and the ‘ideal’ for any Indian is that. Somehow, such mobility has come to represent progress, either upward social mobility , or wealth or just a rite of passage. 
 
 Why? Thats not my main question here. I seek to explain where it lies.   
 
